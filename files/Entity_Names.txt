@@ -1,0 +1,45 @@
+Entity ID
+Entity name
+Contribut
+Entity
+Entity investor-facing name (if different)
+Entity tax ID type
+Entity tax ID
+Assignees
+Prospect for
+asset type
+Entity Name
+asset name
+Project
+Asset Class Tags
+Project/Fund
+PROJECT NAME
+SALESFORCE NAME
+legal_entity_name=ASSET NAME
+Company_tax_ID
+Entity_currency
+Status
+Name of the Entity
+country
+STATE
+CITY
+ADDRESS
+POSTAL CODE
+Manager
+asset_type
+asset_nickname
+Purchase_Date
+Privilage_date
+Purchase_Amount
+total_equity
+country
+STATE
+CITY
+ADDRESS
+POSTAL CODE
+LAND SIZE
+Overview
+entity
+Company
+Project
+Invested In

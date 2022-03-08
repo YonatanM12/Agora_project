@@ -1,0 +1,514 @@
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+Deal - Value
+total equity
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+Deal - Value
+total equity
+Investment Amount
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+Deal - Value
+total equity
+Investment Amount
+Liquidated Investments
+Active Investments
+Relationship Value
+Investment Value
+Minimum Investment
+Maximum Investment
+Typical Investment
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+Deal - Value
+total equity
+Investment Amount
+Liquidated Investments
+Active Investments
+Relationship Value
+Investment Value
+Minimum Investment
+Maximum Investment
+Typical Investment
+Purchase_Amount
+total_equity
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+Deal - Value
+total equity
+Investment Amount
+Liquidated Investments
+Active Investments
+Relationship Value
+Investment Value
+Minimum Investment
+Maximum Investment
+Typical Investment
+Purchase_Amount
+total_equity
+amount
+Amount
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+num_units
+investment_amount
+contribution_amount_2
+contribution_amount_1
+contribution_amount
+contribution_amount_3
+Capital call
+Distribution
+Active commitment
+Total commitment
+Commitment
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Reserves/Fees/Formation/Other Costs (recalled capital)
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+Deal - Value
+total equity
+Investment Amount
+Liquidated Investments
+Active Investments
+Relationship Value
+Investment Value
+Minimum Investment
+Maximum Investment
+Typical Investment
+Purchase_Amount
+total_equity
+amount
+Amount
+Investment Amount

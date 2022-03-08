@@ -1,0 +1,61 @@
+IBAN
+bank_num
+branch
+account_number
+bank_name
+swift
+bank_address
+Bank 
+Bank number
+Payment type preference
+bank name
+routing number
+Wire beneficiary name
+Wire beneficiary address
+account number
+account type
+name on account
+account type
+Wire beneficiary name
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary city
+Wire beneficiary state/region
+Wire beneficiary postal code
+Wire beneficiary country
+Wire beneficiary account number or IBAN
+Wire reference to beneficiary
+Wire bank name
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank city
+Wire bank state/region
+Wire bank ABA/RTN number
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank name
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank city
+Wire intermediary bank state/region
+Wire intermediary bank postal code
+Wire intermediary bank country
+Wire intermediary bank ABA/RTN number
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+Bank Name
+Bank Type
+Account Number
+ABA
+IBAN
+SWIFT Code
+Account Type
+country
+BANK NAME
+ROUTING NUMBER
+ACCOUNT NUMBER
+BANK ADDRESS
+IBAN
+SWIFT

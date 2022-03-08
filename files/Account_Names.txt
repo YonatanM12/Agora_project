@@ -1,0 +1,293 @@
+name_hebrew
+name_english
+id_type
+id
+email
+num_units
+investment_amount
+address_hebrew
+address_english
+birthdate
+incorporation_date
+phone
+bank_account
+bank_account_receivable
+superviser/advertiser
+agent/agency
+dist_channel
+is_accredited
+residency
+spam
+direct_messaging
+citizenship
+country_birth
+accreditation_date
+accreditation_valid_date
+gender
+contribution_date
+contribution_amount_2
+contribution_amount_1
+sig_date
+received_docs_date
+contribution_date_2
+contribution_date_3
+contribution_amount
+contribution_amount_3
+bank_account_receivable_2
+residency_num1
+contribution_date_1
+name_hebrew
+name_english
+id_type
+id
+email
+num_units
+investment_amount
+address_hebrew
+address_english
+birthdate
+incorporation_date
+phone
+bank_account
+bank_account_receivable
+superviser/advertiser
+agent/agency
+dist_channel
+is_accredited
+residency
+spam
+direct_messaging
+citizenship
+country_birth
+accreditation_date
+accreditation_valid_date
+gender
+contribution_amount_2
+contribution_amount_1
+sig_date
+received_docs_date
+contribution_date_2
+contribution_date_3
+email2
+contribution_amount
+contribution_amount_3
+contribution_date
+bank_account_receivable_2
+residency_num1
+contribution_date_1
+id
+investor_address
+name
+email
+Account ID
+Account Informal Name
+Contact ID
+Contact First Name
+Contact Middle Name
+Contact Last Name
+Contact Type
+Addressed As
+Primary email address
+Role
+Account Administrator
+Email type
+Capital call
+Distribution
+Marketing
+Miscellaneous
+Newsletter
+Quarterly report/audit
+Tax
+Account ID
+Legal name
+Tax ID type
+Account street
+Account street 2
+Account street 3
+Account city
+Account state
+Account postal code
+Account country
+Contacts
+Contact locations
+Account notes
+Active commitment
+Total commitment
+# of Positions
+Legal entity tax ID
+Legal entity type
+Account
+Currency
+Commitment
+Ownership
+Contribution
+Contribution (recalled capital)
+Property Investment
+Property Investment (recalled capital)
+Reserves/Fees/Formation/Other Costs
+Re-Contribution
+Re-Contribution of Capital
+Total capital call amount
+Total capital call amount (recalled amount)
+Total contribution amount
+Contribution 1 amount
+Contribution 1 date
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Account ID
+Account legal name
+Account informal name (if different)
+Account tax ID type
+Account tax ID
+Account street
+Account street 2
+Account street 3
+Account city
+Account state
+Account postal code
+Account country
+Contacts
+Contact locations
+Investor group
+Receives fees or promote
+Ownership
+Currency
+Committed
+Contributed from commitment
+Unfunded commitment
+Recallable capital
+Contributed from recallable capital
+Remaining recallable capital
+Excess contributions
+Total contributions
+Initial commitment date
+Return of capital distributions
+Return on capital distributions
+Total distributions
+Equity balance
+Electronic tax documents
+Account notes
+Payment type preference
+Contact ID
+First name
+Middle name
+Last name
+Addressed as
+Title
+Company
+Job title
+Former employments
+Website URL
+Linkedin URL
+Referrer
+Assignee
+Notes
+Email addresses
+Phone numbers
+Fax numbers
+Addresses
+Tags
+Last updated
+Person - Email
+Person - Phone
+Contact person
+Deal - Value
+total equity
+
+IMS Investment ID
+Issuer Organization
+Class
+Legal Name
+Executive Name
+Email
+Investment Amount
+Initial Capital %
+Ownership %
+Investment Date
+Profile Type
+First Name
+Last Name
+Legal Name
+Executive Name
+Email
+Number of Logins
+Last Login
+Liquidated Investments
+Active Investments
+Relationship Value
+Investment Value
+Status
+Role
+Entity Type
+Primary Relationship Manager
+Primary Relationship Manager Tags
+Company
+Website URL
+LinkedIn URL
+Facebook URL
+Twitter URL
+Referred By
+Contact Type Tags
+Distribution Preference
+(Mobile) Phone Number
+(Work) Phone Number
+Phone Number
+(Home) Address 1
+(Home) Address 2
+(Home) City
+(Home) State
+(Home) Zip
+(Home) Country
+(Work) Address 1
+(Work) Address 2
+(Work) City
+(Work) State
+(Work) Zip
+(Work) Country
+Address 1
+Address 2
+City
+State
+Zip
+Country
+Connection 1 Name
+Connection 1 Type
+Connection 1 Sharing Communications
+Connection 2 Name
+Connection 2 Type
+Connection 2 Sharing Communications
+Connection 3 Name
+Connection 3 Type
+Connection 3 Sharing Communications
+Connection 4 Name
+Connection 4 Type
+Connection 4 Sharing Communications
+Connection 5 Name
+Connection 5 Type
+Connection 5 Sharing Communications
+Minimum Investment
+Maximum Investment
+Typical Investment
+email
+id
+year
+period
+date
+amount
+Account Name
+Person Account: Email
+Opportunity Name
+Profile
+Entity Type (LLC/LTD/INDIVIDUAL)
+Amount
+Close Date
+Person Account: ID
+Person Account: Mobile
+Person Account: Parent Account
+Opportunity ID
+PersonContactId
+Investor
+Email
+Investor
+Investment Amount

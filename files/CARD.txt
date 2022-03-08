@@ -1,0 +1,991 @@
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank postal code
+Wire intermediary bank ABA/RTN number
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank postal code
+Wire intermediary bank ABA/RTN number
+Contact ID
+Phone numbers
+Fax numbers
+Addresses
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank postal code
+Wire intermediary bank ABA/RTN number
+Contact ID
+Phone numbers
+Fax numbers
+Addresses
+Person - Phone
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank postal code
+Wire intermediary bank ABA/RTN number
+Contact ID
+Phone numbers
+Fax numbers
+Addresses
+Person - Phone
+IMS Profile ID
+IMS Investment ID
+Initial Capital %
+Ownership %
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank postal code
+Wire intermediary bank ABA/RTN number
+Contact ID
+Phone numbers
+Fax numbers
+Addresses
+Person - Phone
+IMS Profile ID
+IMS Investment ID
+Initial Capital %
+Ownership %
+IMS Profile ID
+Number of Logins
+Minimum IRR
+Account Number
+IBAN
+(Mobile) Phone Number
+(Work) Phone Number
+Phone Number
+(Home) Address 1
+(Home) Address 2
+(Work) Address 1
+(Work) Address 2
+Address 1
+ Address 2
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank postal code
+Wire intermediary bank ABA/RTN number
+Contact ID
+Phone numbers
+Fax numbers
+Addresses
+Person - Phone
+IMS Profile ID
+IMS Investment ID
+Initial Capital %
+Ownership %
+IMS Profile ID
+Number of Logins
+Minimum IRR
+Account Number
+IBAN
+(Mobile) Phone Number
+(Work) Phone Number
+Phone Number
+(Home) Address 1
+(Home) Address 2
+(Work) Address 1
+(Work) Address 2
+Address 1
+ Address 2
+Company_tax_ID
+ADDRESS
+POSTAL CODE
+ROUTING NUMBER
+ACCOUNT NUMBER
+BANK ADDRESS
+IBAN
+ADDRESS
+POSTAL CODE
+LAND SIZE
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank postal code
+Wire intermediary bank ABA/RTN number
+Contact ID
+Phone numbers
+Fax numbers
+Addresses
+Person - Phone
+IMS Profile ID
+IMS Investment ID
+Initial Capital %
+Ownership %
+IMS Profile ID
+Number of Logins
+Minimum IRR
+Account Number
+IBAN
+(Mobile) Phone Number
+(Work) Phone Number
+Phone Number
+(Home) Address 1
+(Home) Address 2
+(Work) Address 1
+(Work) Address 2
+Address 1
+ Address 2
+Company_tax_ID
+ADDRESS
+POSTAL CODE
+ROUTING NUMBER
+ACCOUNT NUMBER
+BANK ADDRESS
+IBAN
+ADDRESS
+POSTAL CODE
+LAND SIZE
+id
+Person Account: ID
+Person Account: Mobile
+Opportunity ID
+PersonContactId
+id
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+id
+address_hebrew
+address_english
+phone
+bank_account
+bank_account_receivable
+bank_account_receivable_2
+residency_num1
+address
+IBAN
+bank_num
+branch
+account_number
+id
+investor_address
+bank_address
+Bank number
+Account ID
+Contact ID
+Account ID
+Legal entity tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+# of Positions
+Position ID
+% Ownership
+Entity ID
+Position ID
+Entity tax ID
+Account ID
+Account tax ID
+Ultimate beneficial owner tax ID
+Account street
+Account street 2
+Account street 3
+Account postal code
+Domicile street
+Domicile street 2
+Domicile street 3
+Domicile postal code
+% Ownership
+routing number
+account number
+Wire beneficiary address
+Wire beneficiary address 2
+Wire beneficiary address 3
+Wire beneficiary postal code
+Wire beneficiary account number or IBAN
+Wire bank address
+Wire bank address 2
+Wire bank address 3
+Wire bank postal code
+Wire bank ABA/RTN number
+Wire intermediary bank address
+Wire intermediary bank address 2
+Wire intermediary bank address 3
+Wire intermediary bank postal code
+Wire intermediary bank ABA/RTN number
+Contact ID
+Phone numbers
+Fax numbers
+Addresses
+Person - Phone
+IMS Profile ID
+IMS Investment ID
+Initial Capital %
+Ownership %
+IMS Profile ID
+Number of Logins
+Minimum IRR
+Account Number
+IBAN
+(Mobile) Phone Number
+(Work) Phone Number
+Phone Number
+(Home) Address 1
+(Home) Address 2
+(Work) Address 1
+(Work) Address 2
+Address 1
+ Address 2
+Company_tax_ID
+ADDRESS
+POSTAL CODE
+ROUTING NUMBER
+ACCOUNT NUMBER
+BANK ADDRESS
+IBAN
+ADDRESS
+POSTAL CODE
+LAND SIZE
+id
+Person Account: ID
+Person Account: Mobile
+Opportunity ID
+PersonContactId

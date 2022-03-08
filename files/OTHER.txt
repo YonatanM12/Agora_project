@@ -1,0 +1,931 @@
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+Title
+Job title
+Former employments
+Website URL
+Linkedin URL
+Notes
+Email addresses
+Tags
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+Title
+Job title
+Former employments
+Website URL
+Linkedin URL
+Notes
+Email addresses
+Tags
+Person - Email
+asset type
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+Title
+Job title
+Former employments
+Website URL
+Linkedin URL
+Notes
+Email addresses
+Tags
+Person - Email
+asset type
+Class
+Email
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+Title
+Job title
+Former employments
+Website URL
+Linkedin URL
+Notes
+Email addresses
+Tags
+Person - Email
+asset type
+Class
+Email
+Profile Type
+Email
+Status
+Role
+Entity Type
+Primary Relationship Manager Tags
+Website URL
+LinkedIn URL
+Facebook URL
+Twitter URL
+Referred By
+Asset Class Tags
+Region Tags
+Custom Tags
+Contact Type Tags
+General Comments
+Distribution Preference
+Bank Type
+SWIFT Code
+Account Type
+(Work) Zip
+(Home) Zip
+Zip
+Connection 1 Type
+Connection 1 Sharing Communications
+Connection 2 Type
+Connection 2 Sharing Communications
+Connection 3 Type
+Connection 3 Sharing Communications
+Connection 4 Name
+Connection 4 Type
+Connection 4 Sharing Communications
+Connection 5 Type
+Connection 5 Sharing Communications
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+Title
+Job title
+Former employments
+Website URL
+Linkedin URL
+Notes
+Email addresses
+Tags
+Person - Email
+asset type
+Class
+Email
+Profile Type
+Email
+Status
+Role
+Entity Type
+Primary Relationship Manager Tags
+Website URL
+LinkedIn URL
+Facebook URL
+Twitter URL
+Referred By
+Asset Class Tags
+Region Tags
+Custom Tags
+Contact Type Tags
+General Comments
+Distribution Preference
+Bank Type
+SWIFT Code
+Account Type
+(Work) Zip
+(Home) Zip
+Zip
+Connection 1 Type
+Connection 1 Sharing Communications
+Connection 2 Type
+Connection 2 Sharing Communications
+Connection 3 Type
+Connection 3 Sharing Communications
+Connection 4 Name
+Connection 4 Type
+Connection 4 Sharing Communications
+Connection 5 Type
+Connection 5 Sharing Communications
+Project/Fund
+Entity_currency
+Status
+SWIFT
+asset_type
+Investment_type
+Overview
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+Title
+Job title
+Former employments
+Website URL
+Linkedin URL
+Notes
+Email addresses
+Tags
+Person - Email
+asset type
+Class
+Email
+Profile Type
+Email
+Status
+Role
+Entity Type
+Primary Relationship Manager Tags
+Website URL
+LinkedIn URL
+Facebook URL
+Twitter URL
+Referred By
+Asset Class Tags
+Region Tags
+Custom Tags
+Contact Type Tags
+General Comments
+Distribution Preference
+Bank Type
+SWIFT Code
+Account Type
+(Work) Zip
+(Home) Zip
+Zip
+Connection 1 Type
+Connection 1 Sharing Communications
+Connection 2 Type
+Connection 2 Sharing Communications
+Connection 3 Type
+Connection 3 Sharing Communications
+Connection 4 Name
+Connection 4 Type
+Connection 4 Sharing Communications
+Connection 5 Type
+Connection 5 Sharing Communications
+Project/Fund
+Entity_currency
+Status
+SWIFT
+asset_type
+Investment_type
+Overview
+email
+period
+Person Account: Email
+Entity Type (LLC/LTD/INDIVIDUAL)
+id_type
+email
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+id_type
+email
+dist_channel
+is_accredited
+spam
+direct_messaging
+gender
+email2
+swift
+dist_every
+email
+type
+Contact Type
+Primary email address
+Role
+Email type
+Miscellaneous
+Marketing
+Newsletter
+Quarterly report/audit
+Tax
+Tax ID type
+Ultimate beneficial owner tax ID type
+Account notes
+Legal entity type
+Description
+Currency
+Position class
+Contribution 1 method
+Contribution 1 description
+Contribution 1 notes
+Entity tax ID type
+Account tax ID type
+Ultimate beneficial owner tax ID type
+Status
+Investor group
+Receives fees or promote
+Currency
+Electronic tax documents
+Position notes
+Account notes
+Position class
+Payment type preference
+account type
+ account ownership
+additional instructions
+Wire reference to beneficiary
+Wire bank SWIFT/BIC code
+Wire bank international routing code
+Wire intermediary bank SWIFT/BIC code
+Wire intermediary bank international routing code
+Title
+Job title
+Former employments
+Website URL
+Linkedin URL
+Notes
+Email addresses
+Tags
+Person - Email
+asset type
+Class
+Email
+Profile Type
+Email
+Status
+Role
+Entity Type
+Primary Relationship Manager Tags
+Website URL
+LinkedIn URL
+Facebook URL
+Twitter URL
+Referred By
+Asset Class Tags
+Region Tags
+Custom Tags
+Contact Type Tags
+General Comments
+Distribution Preference
+Bank Type
+SWIFT Code
+Account Type
+(Work) Zip
+(Home) Zip
+Zip
+Connection 1 Type
+Connection 1 Sharing Communications
+Connection 2 Type
+Connection 2 Sharing Communications
+Connection 3 Type
+Connection 3 Sharing Communications
+Connection 4 Name
+Connection 4 Type
+Connection 4 Sharing Communications
+Connection 5 Type
+Connection 5 Sharing Communications
+Project/Fund
+Entity_currency
+Status
+SWIFT
+asset_type
+Investment_type
+Overview
+email
+period
+Person Account: Email
+Entity Type (LLC/LTD/INDIVIDUAL)
+Email
